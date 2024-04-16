@@ -9,6 +9,7 @@ TagManager:
   - Flag
   - Sword
   - Skeletor
+  - PlayerFlag
   layers:
   - Default
   - TransparentFX
